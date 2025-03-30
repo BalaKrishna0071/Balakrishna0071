@@ -75,7 +75,7 @@
 <a href="https://github.com/BalaKrishna0071" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/Balakrishna H Bobala" target="_blank">
+<a href="https://dev.to/balaa07" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/balkrishna007" target="_blank">
