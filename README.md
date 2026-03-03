@@ -6,13 +6,13 @@
 ### <div align="center">I'm Balakrishna, a Full Time Go & Python Developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently Building innovative solutions using Go and Python  
+- 🔭 I’m currently Building innovative solutions using Python  
   
 
 - 🌱 I’m currently learning React js  
   
 
-- ❓ Ask me about anything related to Go & Python and related technologies  
+- ❓ Ask me about anything related to Python and related technologies  
   
 
 - ⚡ Fun fact: I talk to my code while fixing bugs!  
