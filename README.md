@@ -101,40 +101,6 @@ Key Contributions:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <!-- GitHub Stats - Primary Source -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BalaKrishna0071&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaKrishna0071&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BalaKrishna0071&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <!-- Direct GitHub Metrics using HTML -->
-  <a href="https://github.com/BalaKrishna0071?tab=followers">
-    <img src="https://img.shields.io/github/followers/BalaKrishna0071?style=social&label=Followers" alt="GitHub followers" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/BalaKrishna0071?tab=repositories">
-    <img src="https://img.shields.io/github/stars/BalaKrishna0071?style=social&label=Stars" alt="GitHub Stars" />
-  </a>
-  
-</div>
-
----
-
 ## 🌟 Key Expertise Areas
 
 | Area | Expertise |
