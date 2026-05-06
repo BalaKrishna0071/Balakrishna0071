@@ -104,9 +104,25 @@ Key Contributions:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BalaKrishna0071&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- GitHub Stats with Caching & Multiple Themes -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BalaKrishna0071&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaKrishna0071&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaKrishna0071&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats as Alternative -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BalaKrishna0071&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak Stats" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Direct GitHub Metrics -->
+  ![GitHub followers](https://img.shields.io/github/followers/BalaKrishna0071?style=social&label=Follow)
+  ![GitHub User's stars](https://img.shields.io/github/stars/BalaKrishna0071?style=social&label=Stars)
+  
 </div>
 
 ---
